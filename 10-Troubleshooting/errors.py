@@ -1,5 +1,5 @@
 
-# print('Questo è un errore di sintassi perchè l'apostrofo spezza la stringa')
+# print('Questo è un errore di sintassi perché l'apostrofo spezza la stringa')
 
 x = 2
 y = 0

@@ -18,7 +18,7 @@ routers = {"r1": {"ip":"192.168.1.1", "mask":"255.255.255.0", "admin":True},
 
 routers["r1"]
 routers["r1"]["ip"]
-print(f'r1: {routers["r1"]["ip"]} {routers["r1"]["mask"]}')
+print(routers["r1"]["ip"], routers["r1"]["mask"])
 
 # nested data
 devices = {"r1": {"interfaces": 

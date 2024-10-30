@@ -36,5 +36,5 @@ x is y
 # Membership Operators
 x = ["router1", "router2"]
 "router1" in x
+"router3" in x
 "router3" not in x
-
